@@ -17,16 +17,16 @@ Each folder itself contains the group solution in pyth file, the data used for t
 ### Final Solution file path
 Project 1:  
     
-    p1/p1_final_ourcode.ipynb
+    p1/p1_final.ipynb
 
 Project 2:  
     
-    p2/p2_final_ourcode.ipynb
+    p2/p2_final.ipynb
 
 Project 3: 
 
-    MNIST : p3/p3_Final_Code_ANN_MNIST.ipynb
-    Cifar10 : p3/p3_Final_Code_TransferLearning.ipynb
+    MNIST : p3/p3_final_ANN_MNIST.ipynb
+    Cifar10 : p3/p3_final_TransferLearning.ipynb
 
 # Checkpoints for Project 3
 Checkpoints for MNIST and Cifar10 has been uploaded to seafile with mnist.h5 and cifar10.h5 file names repectively
