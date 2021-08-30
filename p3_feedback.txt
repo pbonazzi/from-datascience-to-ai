@@ -1,0 +1,21 @@
+# Repository M40-FDS20 Practical 3
+
+## Task 1. ANN: 11.5/15
+
+Correct submission for Task 1.
+
+3.5 points deducted -- (Task 1) Report is good and detailed, but there are a number of inaccuracies in it, and it's sometimes hard to follow. Why did you use SparseCategoricalCrossentropy instead of one-hot encoding? Also, the claim "the best ReLU variant for the activation function is the Exponential linear unit (ELU) activation function has been chosen." is unclear.
+
+
+## Task 2. Transfer Learning: 25.0/25
+
+Correct submission for Task 2.
+
+(Task 2) A good report, better than most, but could be more detailed and more coherent. For the statement: "We also saw significant improvements when we upscaled the 32x32 dimension image tensor to 256x256 dimension array. While pretraining on ImageNet, ResNet takes input dimension of 224x224 as mentioned in the paper. Thus we upscaled our input to 256x256 dimension (closer to 224x224) before feeding it to ResNet50 architecutre": how can the network take size 256x256 when the original is 224x224?
+
+
+
+The marks are based on the accuracy of the models and the quality of the reports. 
+
+Overall: 36.5/40
+

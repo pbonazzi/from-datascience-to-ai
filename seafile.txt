@@ -1,0 +1,9 @@
+Upload link
+
+url: https://seafile.ifi.uzh.ch/u/d/8b193d2f5fb845fd9cd4/
+password: jnHrpKQ4MkCNYBdL
+
+In case your trained models are too large to upload to GitHub (>100MB), you can upload your trained model using the above link. Once uploaded, the files cannot be modified or deleted. You can upload new files — We will consider only the newest one. Please make sure uploading your models before the deadline. 
+
+In case the link doesn’t work or you have any question, please contact us via email zhang@ifi.uzh.ch
+

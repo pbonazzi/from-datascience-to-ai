@@ -1,0 +1,38 @@
+# Repository M40-FDS20 Practical 2
+
+## Task Naive Bayes: 10.0/10
+
+NB: The implementation of NB is OK.
+
+## Task Experiments: 2.0/2
+
+The implementation of the experiment function is OK
+
+## Task Experiment IRIS: 3.0/3
+
+Experiment Iris is OK
+
+## Task Experiment Voting: 3.0/3
+
+Experiment Voting is OK
+
+## Task Experiment Car: 3.0/3
+
+Experiment Car is OK
+
+## Task Experiment Cancer: 3.0/3
+
+Experiment Cancer is OK
+
+## Task Experiment Ionosphere: 3.0/3
+
+Experiment Ionospher is OK
+
+## Task Experiment Sonar: 3.0/3
+
+Experiment Sonar is OK
+
+Overall: 30.0/30
+
+
+
