@@ -1,0 +1,3 @@
+# Practical 1: Implementation of Linear Regression (Ridge, Lasso)
+
+In this practical, you will implement linear regression using the least squares method. For the first part, the task is to implement the linear model from scratch using the numpy package. You will need to use learning curves plot to understand whether the linear model is overfitting or underfitting. For the more advanced part, the task is to implement linear models with polynomial basis expansions and regularizations (Ridge and Lasso) by making use of a package called scikit-learn. You will need to use k-fold cross validation to obtain the optimal hyper-parameters for the models. The practical will use the winequality dataset, which is available here: https://archive.ics.uci.edu/ml/datasets/Wine+Quality
