@@ -1,10 +1,6 @@
 
 # Contributions
 
-We decided to solve all three practicals separetely (team of 3) to minimize misunderstanding in a later stage and maximize the understanding of the material. Therefore, we declare that every member has done all three practicals individually. The final solution include the best pieces of code and text explanations that , as a group, we were able to produce.
-
-To check individual contribution, one can check the "individualcodes" folder inside each project folder( p1,p2,p3)
-
 # Projects Reports
 The project report of each project is written at the end of jupyter notebook(.ipynb) of respective using markdown cell.
 
